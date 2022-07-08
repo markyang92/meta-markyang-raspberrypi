@@ -1,0 +1,1 @@
+PACKAGECONFIG:append = " wayland-brcm wayland-client wayland-server"
