@@ -1,4 +1,4 @@
-PACKAGECONFIG:append = " gl eglfs gles2"
+PACKAGECONFIG:append = " gles2 kms"
 
 #FILESEXTRAPATHS:prepend := "${THISDIR}/files:"
 #SRC_URI += " \
